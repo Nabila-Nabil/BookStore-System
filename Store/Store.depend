@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1701780652 source:d:\iti scolership\courses\c (eng ahmed)\project\store\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1701794292 source:d:\iti scolership\courses\c (eng ahmed)\project\c (book store system)\store\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
