@@ -39,36 +39,6 @@ struct bookstore
     genre* inventory;
 };
 
-//void SetColor(int ForgC);
-//void addFirstGenre (bookstore* NabilaForBooks);
-//void addNewGenre(bookstore* NabilaForBooks);
-//void addFirstBook(genre* topic);
-//void addNewBook(genre* topic);
-//void fillNewGenreInfo(int indexOfCurrentGenre,genre* topic,bookstore*NabilaForBooks);
-//void fillNewBookInfo(int indexOfCurrentBook,book* BOOK,genre*topic);
-//void displayGenre(genre topic);
-//void displayBook(book BOOK);
-//void displayBookList(genre* topic);
-//void displayAllBooksInGenreInDetail(genre* topic);
-//int getOrderedGenreIndex( char* newGenreName,bookstore*NabilaForBooks);
-//int getOrderedBookIndex(char* newBookName,genre*topic)
-//int searchForGenreName(int indexOfCurrentGenre, char* newGenreName,bookstore*NabilaForBooks);
-//int searchForBookName(int indexOfCurrentBook, char* newBookName,genre*topic);
-//void  displayAllGenresInBookstoreInDetail(bookstore* NabilaForBooks);
-//void displayGenresList(bookstore* NabilaForBooks);
-//int selectingbookGenre(bookstore* NabilaForBooks);
-//int selectingbook(genre* topic);
-//void removeBook(book* BOOK);
-//void increaseBookQuantity(book* BOOK);
-//void mainMenu(bookstore* NabilaForBooks);
-//void genreMenu(bookstore* NabilaForBooks);
-//void bookMenu(bookstore* NabilaForBooks);
-//void MoveBookFromGenre(genre* topic,book* BOOK,int indexOfCurrentBook);
-//void MoveBookToGenre(genre* topic,book* BOOK);
-//int validateOrderedBookName(int indexOfCurrentBook, int sizeOfBookArray,char* newBookName, book*BookArray);
-//void order(bookstore* NabilaForBooks);
-//int exitSystem(bookstore* NabilaForBooks);
-//bookstore initializeBookstoreSystem();
 void SetColor(int ForgC)
 {
     WORD wColor;
